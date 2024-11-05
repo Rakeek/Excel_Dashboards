@@ -28,6 +28,9 @@ Link - (https://github.com/Rakeek/Excel_Dashboards/blob/main/School%20Management
 - **Academic Performance Analysis**
 - **Demographic Insights**
 
+  Screenshots:-
+  ![Finance Tracker Dashboard Screenshot](https://github.com/Rakeek/Excel_Dashboards/blob/main/Student-Dashboard.png)
+  
 This dashboard is designed to provide a comprehensive view of student metrics for efficient management and data-driven decisions.
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
