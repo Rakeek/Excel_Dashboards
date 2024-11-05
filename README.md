@@ -38,7 +38,7 @@ This repository contains an **Excel Dashboard for Tracking Income and Expenses**
 
 > **Note**: Due to the file size, GitHub cannot display this Excel file directly. Please **download the file** to use the dashboard as intended.
 
-Link - (https://github.com/yourusername/Excel_Dashboards/blob/main/Finance%20Tracker%20Dashboard.xlsx)
+Link - (https://github.com/Rakeek/Excel_Dashboards/blob/main/Finance%20Tracker%20Dashboard.zip)
 
 ## How to Use
 
@@ -58,6 +58,11 @@ Link - (https://github.com/yourusername/Excel_Dashboards/blob/main/Finance%20Tra
 
 - **Income Tracking**: View monthly and annual income summaries.
 - **Expense Analysis**: Track and categorize expenses over time.
+
+  Screenshots:-
+  ![Finance Tracker Dashboard Screenshot](https://github.com/Rakeek/Excel_Dashboards/blob/main/Dashboard.png)
+  ![Finance Tracker Dashboard Screenshot](https://github.com/Rakeek/Excel_Dashboards/blob/main/Assets%20%26%20Goals.png)
+  ![Finance Tracker Dashboard Screenshot](https://github.com/Rakeek/Excel_Dashboards/blob/main/Income%20%26%20Expenses.png)
 
   This dashboard is designed to offer a comprehensive view of your financial metrics to support effective financial management and planning.
 
